@@ -1,0 +1,198 @@
+a{
+	text-decoration: none;
+}
+p{
+	margin: 0px;
+}
+sub{
+	font-size: 67%;
+	vertical-align: -10%;
+}
+sup{
+	font-size: 67%;
+	vertical-align: 33%;
+}
+.s1{
+	-webkit-hyphens: none;
+	color: #000000;
+	font-family: "Arial";
+	font-size: 68.7500%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	hyphens: none;
+	letter-spacing: 0.0000em;
+	margin-bottom: 0.0000%;
+	margin-top: 0.0000%;
+	padding-left: 0.0000%;
+	padding-right: 0.0000%;
+	text-align: left;
+	text-indent: 0.0000%;
+	text-transform: none;
+}
+.s2{
+	-webkit-hyphens: none;
+	color: #000000;
+	font-family: "Arial";
+	font-size: 68.7500%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	hyphens: none;
+	letter-spacing: 0.0000em;
+	margin-bottom: 0.0000%;
+	margin-top: 0.0000%;
+	padding-left: 7.6923%;
+	padding-right: 0.0000%;
+	text-align: left;
+	text-decoration: none;
+	text-indent: -3.8462%;
+	text-transform: none;
+}
+.s3{
+	-webkit-hyphens: none;
+	color: #000000;
+	font-family: "Arial";
+	font-size: 68.7500%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	hyphens: none;
+	letter-spacing: 0.0000em;
+	margin-bottom: 0.0000%;
+	margin-top: 0.0000%;
+	padding-left: 15.3846%;
+	padding-right: 0.0000%;
+	text-align: left;
+	text-decoration: none;
+	text-indent: -3.8462%;
+	text-transform: none;
+}
+.s4{
+	font-weight: bold;
+}
+.s5{
+	color: #222222;
+	font-weight: bold;
+}
+.s6{
+	color: #222222;
+}
+.s7{
+	list-style: none;
+}
+.c1{
+	background: #FFFFFF;
+	color: #222222;
+}
+.c2{
+	background: #FFFFFF;
+	color: #222222;
+	font-family: "Arial";
+	font-weight: bold;
+}
+.c3{
+	color: #000000;
+	font-family: "Arial";
+	font-size: 100.0000%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	padding-right: 2.6%;
+}
+.c4{
+	background: #FFFFFF;
+}
+.c5{
+	color: #000000;
+	font-family: "Arial";
+	font-size: 100.0000%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	padding-right: 2.9%;
+}
+.c6{
+	background: #FFFFFF;
+	color: #1155CC;
+	text-decoration: underline;
+}
+.c7{
+	color: #222222;
+	font-family: "Arial";
+	font-size: 100.0000%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	padding-right: 2.6%;
+}
+.c8{
+	background: #FFFFFF;
+	color: #222222;
+	font-family: "Arial";
+	font-style: italic;
+}
+.c9{
+	color: #222222;
+	font-family: "Arial";
+	font-size: 100.0000%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	padding-right: 2.6%;
+}
+.c10{
+	background: #FFFFFF;
+	color: #1155CC;
+	font-family: "Arial";
+	font-weight: bold;
+	text-decoration: underline;
+}
+.c11{
+	color: #222222;
+	font-family: "Arial";
+	font-size: 100.0000%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	padding-right: 2.9%;
+}
+.c12{
+	color: #000000;
+	font-family: "Arial";
+	font-weight: normal;
+}
+.c13{
+	color: #000000;
+	font-family: "Arial";
+	font-size: 100.0000%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	padding-right: 2.6%;
+}
+.c14{
+	color: #000000;
+	font-family: "Arial";
+	font-size: 100.0000%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	padding-right: 2.9%;
+}
+.c15{
+	font-family: "Arial";
+	font-weight: normal;
+}
+.c16{
+	font-family: "Arial";
+	font-weight: bold;
+}
+.c17{
+	background: #FFFFFF;
+	font-family: "Arial";
+	font-weight: bold;
+}
+.c18{
+	color: #000000;
+}

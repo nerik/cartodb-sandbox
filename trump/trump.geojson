@@ -1,0 +1,1098 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03637,
+          38.89511
+        ]
+      },
+      "properties": {
+        "cartodb_id": 37,
+        "content": "Stop Iran Rally - &quot",
+        "state": "D.C.",
+        "city": "Washington",
+        "date": "September 9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.11292,
+          40.80754
+        ]
+      },
+      "properties": {
+        "cartodb_id": 47,
+        "content": " Rally - “Frankly, I really want to run against Hillary. That is the one. It is sort of like if you have a baseball team or a football team and you get your heart set on something",
+        "state": "Iowa",
+        "city": "Burlington",
+        "date": "October 21, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03481,
+          34.00071
+        ]
+      },
+      "properties": {
+        "cartodb_id": 34,
+        "content": "[ Speech](https://www.youtube.com/watch?v=YmfvVPOhX5Q)",
+        "state": "SC",
+        "city": "Columbia",
+        "date": "August 27th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99879,
+          39.96118
+        ]
+      },
+      "properties": {
+        "cartodb_id": 63,
+        "content": " Rally",
+        "state": "Ohio",
+        "city": "Columbus",
+        "date": "November 23, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.80667,
+          32.78306
+        ]
+      },
+      "properties": {
+        "cartodb_id": 38,
+        "content": " Rally - &quot",
+        "state": "Texas",
+        "city": "Dallas",
+        "date": "September 14, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.60911,
+          41.60054
+        ]
+      },
+      "properties": {
+        "cartodb_id": 27,
+        "content": "Trump [appears with children](https://www.youtube.com/watch?v=06b013p-Ubw) at the Iowa State fair and gives a press conference.",
+        "state": "IA",
+        "city": "Des Moines",
+        "date": "August 15th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.66457,
+          42.50056
+        ]
+      },
+      "properties": {
+        "cartodb_id": 33,
+        "content": "[Speech](https://www.youtube.com/watch?v=-WZPKbDDyCY)",
+        "state": "IA",
+        "city": "Dubuque",
+        "date": "August 25th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.86889,
+          35.92506
+        ]
+      },
+      "properties": {
+        "cartodb_id": 43,
+        "content": " Rally - “It’s not the guns,” Trump said during his hourlong speech. “It’s the people, it’s these sick people.”",
+        "state": "Tennessee",
+        "city": "Franklin",
+        "date": "October 3, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.83894,
+          42.93759
+        ]
+      },
+      "properties": {
+        "cartodb_id": 26,
+        "content": "[Speech](https://www.youtube.com/watch?v=9HfzUPK1Se8)",
+        "state": "NH",
+        "city": "Hampton",
+        "date": "August 14th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65565,
+          30.33218
+        ]
+      },
+      "properties": {
+        "cartodb_id": 49,
+        "content": " Rally - On Bush - “Here’s a guy who wants to run the country and he can’t even run his own campaign,” Trump said.",
+        "state": "Florida",
+        "city": "Jacksonville",
+        "date": "October 24, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.92074,
+          35.96064
+        ]
+      },
+      "properties": {
+        "cartodb_id": 58,
+        "content": " Rally",
+        "state": "Tennessee",
+        "city": "Knoxville",
+        "date": "November 16, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19366,
+          25.77427
+        ]
+      },
+      "properties": {
+        "cartodb_id": 48,
+        "content": " Rally - &quot",
+        "state": "Florida",
+        "city": "Miami",
+        "date": "October 23, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90647,
+          43.0389
+        ]
+      },
+      "properties": {
+        "cartodb_id": 55,
+        "content": " Republican Debate",
+        "state": "Wisconsin",
+        "city": "Milwaukee",
+        "date": "November 10, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.04305,
+          30.69436
+        ]
+      },
+      "properties": {
+        "cartodb_id": 32,
+        "content": "[“We’ll make the US better than ever”](http://www.freerepublic.com/focus/news/3327763/posts)",
+        "state": "AL",
+        "city": "Mobile",
+        "date": "August 21st"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88669,
+          33.68906
+        ]
+      },
+      "properties": {
+        "cartodb_id": 64,
+        "content": " Rally",
+        "state": "South Carolina",
+        "city": "Myrtle Beach",
+        "date": "November 24 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78444,
+          36.16589
+        ]
+      },
+      "properties": {
+        "cartodb_id": 36,
+        "content": "[Speech](https://www.youtube.com/watch?v=rA52tPzpLUs)",
+        "state": "TN",
+        "city": "Nashville",
+        "date": "August 29th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.92895,
+          33.61891
+        ]
+      },
+      "properties": {
+        "cartodb_id": 18,
+        "content": "[Dennis Rodman endorses](http://www.politico.com/story/2015/07/dennis-rodman-endorses-donald-trump-2016-president-120592) Donald Trump via Twitter.",
+        "state": "CA",
+        "city": "Newport Beach",
+        "date": "July 24th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.04798,
+          41.69971
+        ]
+      },
+      "properties": {
+        "cartodb_id": 60,
+        "content": " Rally",
+        "state": "Iowa",
+        "city": "Newton",
+        "date": "November 19, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00597,
+          40.71427
+        ]
+      },
+      "properties": {
+        "cartodb_id": 30,
+        "content": "Donald Trump remains in his NYC-headquarters and does a media tour that [includes an “exclusive” interview with Bill O Reilly](http://www.cnn.com/2015/08/17/politics/donald-trump-jury-duty-michael-cohen/).",
+        "state": "NY",
+        "city": "New York",
+        "date": "August 18th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00597,
+          40.71427
+        ]
+      },
+      "properties": {
+        "cartodb_id": 29,
+        "content": "Donald Trump takes a break from the campaign trail to [head to Jury Duty](http://www.cnn.com/2015/08/17/politics/donald-trump-jury-duty-michael-cohen/).",
+        "state": "NY",
+        "city": "New York",
+        "date": "August 17th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00597,
+          40.71427
+        ]
+      },
+      "properties": {
+        "cartodb_id": 28,
+        "content": "Donald Trump is back in New York [defending his immigration policies on Meet the Press](https://www.youtube.com/watch?v=VjhkELbVRUw).",
+        "state": "NY",
+        "city": "New York",
+        "date": "August 16th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00597,
+          40.71427
+        ]
+      },
+      "properties": {
+        "cartodb_id": 25,
+        "content": "Trump appears on the [Mark Levin show to talk about his “war” with the press](https://www.youtube.com/watch?v=i5ChoOrbWIw).",
+        "state": "NY",
+        "city": "New York",
+        "date": "August 13th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00597,
+          40.71427
+        ]
+      },
+      "properties": {
+        "cartodb_id": 21,
+        "content": "[“O’Reilly Show Appearance](https://www.youtube.com/watch?v=cRbZaBErCHk)”",
+        "state": "NY",
+        "city": "New York",
+        "date": "August 4th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00597,
+          40.71427
+        ]
+      },
+      "properties": {
+        "cartodb_id": 20,
+        "content": "Donald Trump’s online store sells out of “[Make America Great Again](http://abc11.com/politics/donald-trumps-make-america-great-again-hat-sold-out/888258/)” hats.",
+        "state": "NY",
+        "city": "New York",
+        "date": "July 27th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00597,
+          40.71427
+        ]
+      },
+      "properties": {
+        "cartodb_id": 5,
+        "content": " PVH Corp, parent company of Calvin Klein and which made Trump’s apparel lines, [cuts ties with Trump](http://qz.com/447917/another-giant-company-is-cutting-its-ties-with-donald-trump/).",
+        "state": "NY",
+        "city": "New York",
+        "date": "July 8th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00597,
+          40.71427
+        ]
+      },
+      "properties": {
+        "cartodb_id": 3,
+        "content": " Donald Trump wishes [a happy 4th to everyone](https://twitter.com/realdonaldtrump/status/484923950917353473), even the “haters and losers.”",
+        "state": "NY",
+        "city": "New York",
+        "date": "July 4th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00597,
+          40.71427
+        ]
+      },
+      "properties": {
+        "cartodb_id": 2,
+        "content": " Macy’s [stops carrying](http://www.cnn.com/2015/07/01/politics/donald-trump-macys/) Trump-affiliated items",
+        "state": "NY",
+        "city": " New York",
+        "date": "July 1st"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00597,
+          40.71427
+        ]
+      },
+      "properties": {
+        "cartodb_id": 1,
+        "content": " Donald Trump [announces his candidacy](http://www.bing.com/videos/search?q=donald+trump+june+16+speech&amp",
+        "state": "NY",
+        "city": " New York",
+        "date": "June 16th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21353,
+          33.94121
+        ]
+      },
+      "properties": {
+        "cartodb_id": 44,
+        "content": " Rally - “We’re gonna build a Trump-sized wall at the border. And Mexico is going to pay for it,” Trump said. “They’re going to pay for it.”",
+        "state": "Georgia",
+        "city": "Norcross",
+        "date": "October 10, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1995,
+          42.19454
+        ]
+      },
+      "properties": {
+        "cartodb_id": 35,
+        "content": "[Speech at “Ernie’s Summer Bash” a prominent fundraiser.](https://www.youtube.com/watch?v=hGBIsq0Nnek)",
+        "state": "MA",
+        "city": "Norwood",
+        "date": "August 28th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.64436,
+          41.29639
+        ]
+      },
+      "properties": {
+        "cartodb_id": 19,
+        "content": "Trump speaks at his “Make America Great Again Rally and Picnic,” The Des Moines Register is [disinvited over a critical editorial](http://www.mediaite.com/online/watch-live-donald-trump-campaign-rally-and-picnic-in-iowa/).",
+        "state": "Iowa",
+        "city": "Oskaloosa",
+        "date": "July 25th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.07404,
+          33.44838
+        ]
+      },
+      "properties": {
+        "cartodb_id": 8,
+        "content": " Donald Trump hosts one of his first campaign rallies, [supporters begin lining up at 4:45AM](http://www.breitbart.com/big-government/2015/07/11/crowd-lining-up-around-the-block-for-donald-trump-phoenix-event/) the previous morning.",
+        "state": "AZ",
+        "city": "Phoenix",
+        "date": "July 11th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.49363,
+          29.42412
+        ]
+      },
+      "properties": {
+        "cartodb_id": 17,
+        "content": "Trump [visits the](http://wgntv.com/2015/07/23/donald-trump-visiting-us-mexico-border-today/) US/Mexico Border.",
+        "state": "TX",
+        "city": "San Antonio",
+        "date": "July 23rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.61994,
+          42.03471
+        ]
+      },
+      "properties": {
+        "cartodb_id": 16,
+        "content": " Trump questions John McCain’s war record in an event at the [Family Leadership Summit](http://www.thegazette.com/subject/news/government/politics/cruz-jindal-trump-score-big-at-family-leader-gop-presidential-candidate-event-20150719).",
+        "state": "IA",
+        "city": "Ames",
+        "date": "July 19th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.61994,
+          42.03471
+        ]
+      },
+      "properties": {
+        "cartodb_id": 15,
+        "content": " Trump [courts controversy](http://www.kcci.com/politics/trump-stirs-controversy-with-comments-at-iowa-event/34235466) by saying he “doesn’t think” he’s ever asked forgiveness from God while campaigning in Iowa.",
+        "state": "IA",
+        "city": "Ames",
+        "date": "July 18th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.15455,
+          30.45075
+        ]
+      },
+      "properties": {
+        "cartodb_id": 9,
+        "content": " Donald Trump [skips his signature Miss USA](http://pix11.com/2015/07/12/donald-trump-will-skip-boycotted-miss-usa-pageant/) pageant to ramp up campaigning",
+        "state": "LA",
+        "city": "Baton Rouge",
+        "date": "July 12th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.47668,
+          38.02931
+        ]
+      },
+      "properties": {
+        "cartodb_id": 11,
+        "content": " Donald Trump [attends a winery opening](http://wjla.com/news/political/donald-trump-attends-estate-opening-for-new-va-winery--115567).",
+        "state": "VA",
+        "city": "Charlottesville",
+        "date": "July 14th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03481,
+          34.00071
+        ]
+      },
+      "properties": {
+        "cartodb_id": 42,
+        "content": " Town Hall - “I’m crushing it!”",
+        "state": "South Carolina",
+        "city": "Columbia",
+        "date": "September 23, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05518,
+          34.5037
+        ]
+      },
+      "properties": {
+        "cartodb_id": 14,
+        "content": " Trump [addresses Arkansas Republicans](http://www.arkansasonline.com/news/2015/jul/17/trump-hits-immigration-jobs-pre-speech-talk/) at the Reagan-Rockefeller Dinner.",
+        "state": "AR",
+        "city": "Hot Springs",
+        "date": "July 17th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.53017,
+          41.66113
+        ]
+      },
+      "properties": {
+        "cartodb_id": 4,
+        "content": " Hillary Clinton publicly responds to [Trump’s candidacy for the first time](http://www.politico.com/story/2015/07/hillary-clinton-last-rodeo-campaign-stop-iowa-2016-119810), criticising his remarks in an interview with CNN.",
+        "state": "IA",
+        "city": "Iowa City",
+        "date": "July 7th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.47035,
+          43.52785
+        ]
+      },
+      "properties": {
+        "cartodb_id": 13,
+        "content": " Donald Trump [starts campaigning in New Hampshire](http://www.wmur.com/politics/donald-trump-campaigns-in-new-hampshire/34211664) with an appearance at the Laconia community center.",
+        "state": "NH",
+        "city": "Laconia",
+        "date": "July 16th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24368,
+          34.05223
+        ]
+      },
+      "properties": {
+        "cartodb_id": 7,
+        "content": " Donald Trump attends a private dinner in LA, [and a large protest gathers outside](http://www.breitbart.com/big-hollywood/2015/07/10/large-protests-amplified-police-presence-expected-at-trump-event-in-los-angeles/).",
+        "state": "CA",
+        "city": "Los Angeles",
+        "date": "July 10th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.46026,
+          37.55376
+        ]
+      },
+      "properties": {
+        "cartodb_id": 45,
+        "content": " Rally - &quot",
+        "state": "Virginia",
+        "city": "Richmond",
+        "date": "October 14, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.29229,
+          33.73585
+        ]
+      },
+      "properties": {
+        "cartodb_id": 39,
+        "content": " - USS Iowa - &quot",
+        "state": "California",
+        "city": "San Pedro",
+        "date": "September 16, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.53065,
+          27.33643
+        ]
+      },
+      "properties": {
+        "cartodb_id": 65,
+        "content": " Rally",
+        "state": "Florida",
+        "city": "Sarasota",
+        "date": "November 28, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.78148,
+          34.26945
+        ]
+      },
+      "properties": {
+        "cartodb_id": 40,
+        "content": " - Republican Debate - &quot",
+        "state": "California",
+        "city": "Simi Valley",
+        "date": "September 16, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.40031,
+          42.49999
+        ]
+      },
+      "properties": {
+        "cartodb_id": 51,
+        "content": " Rally - &quot",
+        "state": "Iowa",
+        "city": "Sioux City",
+        "date": "October 27, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "cartodb_id": 50,
+        "content": "Town Hall on Today - “I can relate to average Americans, I’ve eaten at McDonald's and driven myself in a car.”",
+        "state": "",
+        "city": "",
+        "date": "October 26, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.65013,
+          34.50344
+        ]
+      },
+      "properties": {
+        "cartodb_id": 46,
+        "content": " Rally - “She just fainted. You know what? That means she’s excited. It’s ok. Make sure she’s good. Those are my best fans. The one’s that faint I love the most,” Trump quipped.",
+        "state": "South Carolina",
+        "city": "Anderson",
+        "date": "October 19, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38798,
+          33.749
+        ]
+      },
+      "properties": {
+        "cartodb_id": 23,
+        "content": "Trump’s keynote address at the [RedState is cancelled](http://politics.blog.ajc.com/2015/08/08/erick-erickson-disinvites-donald-trump-to-atlanta-redstate-event/) over his remarks about Megan Kelly.",
+        "state": "GA",
+        "city": "Atlanta",
+        "date": "August 8th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.10185,
+          30.08605
+        ]
+      },
+      "properties": {
+        "cartodb_id": 57,
+        "content": " Rally",
+        "state": "Texas",
+        "city": "Beaumont",
+        "date": "November 14, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.79413,
+          43.25086
+        ]
+      },
+      "properties": {
+        "cartodb_id": 24,
+        "content": "[“Campaign Stop”](https://www.youtube.com/watch?v=02Xtw3yz0Ek)",
+        "state": "MI",
+        "city": "Birch Run",
+        "date": "August 11th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80249,
+          33.52066
+        ]
+      },
+      "properties": {
+        "cartodb_id": 62,
+        "content": " Rally",
+        "state": "Alabama",
+        "city": "Birmingham",
+        "date": "November 21, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27055,
+          40.01499
+        ]
+      },
+      "properties": {
+        "cartodb_id": 52,
+        "content": "Republican Debate - On whether he ever carries a gun - “&quot",
+        "state": "Colorado",
+        "city": "Boulder",
+        "date": "October 28, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69541,
+          41.4995
+        ]
+      },
+      "properties": {
+        "cartodb_id": 22,
+        "content": " [“Republican Debate”](https://www.youtube.com/watch?v=xL6dKryKD88)",
+        "state": "OH",
+        "city": "Cleveland",
+        "date": "August 6th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.084777,
+          38.899328
+        ]
+      },
+      "properties": {
+        "cartodb_id": 6,
+        "content": " A poll by The Economist and YouGov [calls Trump the front-runner](https://today.yougov.com/news/2015/07/09/gop-frontrunner-donald-trump/), after he edges out all other candidates when voters were asked about their first and second choice.",
+        "state": "WA\n",
+        "city": "Washington, DC",
+        "date": "July 9th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.084777,
+          38.899328
+        ]
+      },
+      "properties": {
+        "cartodb_id": 12,
+        "content": " Donald Trump [releases financial disclosures](http://www.dailymail.co.uk/news/article-3162884/Donald-Trump-worth-10-BILLION-says-campaign-files-presdential-financial-disclosure-paid-213-million-Apprentice.html) to the FEC, putting his net worth at $10B.",
+        "state": "WA",
+        "city": "Washington DC",
+        "date": "July 15th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.206352,
+          42.515192
+        ]
+      },
+      "properties": {
+        "cartodb_id": 56,
+        "content": " Rally",
+        "state": " Iowa",
+        "city": "Fort Dodge",
+        "date": "November 12, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.75269,
+          39.53491
+        ]
+      },
+      "properties": {
+        "cartodb_id": 53,
+        "content": " Rally - “I will be the greatest jobs president that God ever created.”",
+        "state": "Nevada",
+        "city": "Sparks",
+        "date": "October 29, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.93205,
+          34.94957
+        ]
+      },
+      "properties": {
+        "cartodb_id": 61,
+        "content": " Rally",
+        "state": "South Carolina",
+        "city": "Spartanburg",
+        "date": "November 20, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64371,
+          39.80172
+        ]
+      },
+      "properties": {
+        "cartodb_id": 54,
+        "content": " Rally - &quot",
+        "state": "Illinois",
+        "city": "Springfield",
+        "date": "November 9, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.71217,
+          41.62666
+        ]
+      },
+      "properties": {
+        "cartodb_id": 41,
+        "content": " Rally - “Oh, they’re so young. Look at them. So young and beautiful and attractive,” Trump said.",
+        "state": "Iowa",
+        "city": "Urbandale",
+        "date": "September 19, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.80229,
+          42.26259
+        ]
+      },
+      "properties": {
+        "cartodb_id": 59,
+        "content": " Rally",
+        "state": "Massachusetts",
+        "city": "Worcester",
+        "date": "November 18, 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "cartodb_id": 31,
+        "content": "Donald Trump [gives a press conference](https://www.youtube.com/watch?v=5ZXqjntm9mo) before conducting a town hall in Darry.",
+        "state": "NH",
+        "city": "Darry",
+        "date": "August 19th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.07404,
+          33.44838
+        ]
+      },
+      "properties": {
+        "cartodb_id": 10,
+        "content": " The Trump International Golf Club Puerto Rico (which Trump does not own) [declares bankruptcy](http://www.businessinsider.com/trump-international-gold-club-puerto-rico-files-for-bankruptcy-2015-7).",
+        "state": "Puerto Rico",
+        "city": "Puerto Rico",
+        "date": "July 13th"
+      }
+    }
+  ]
+}
