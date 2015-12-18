@@ -1,0 +1,2 @@
+{\s+"type": "Feature",\s+"geometry": {\s+"type": "Point",\s+"coordinates":\s+\[\s+(.+),\s+(.+)\s+\]\s+},\s+"properties": {\s+"cartodb_id": .+,\s+"content": "(.+)",\s+"state": "(.+)",\s+"city": "(.+)",\s+"date": "(.+)"\s+}\s+}
+#$5, $4\n```\n- center: [$2, $1]\n- zoom: 5\nL.marker([$2,$1]).actions.addRemove(S.map)\n```\n\n$6\n\n##$3\n\n\n
