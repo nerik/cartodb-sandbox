@@ -1,0 +1,77 @@
+@pattern: url(https://raw.githubusercontent.com/nerik/cartodb-sandbox/master/trump/pattern2.png);
+@trump: #ff9cce;
+@carson: #00ff00;
+@cruz: #F11810;
+@paul: #FF9900;
+@huckabee: #ffff80;
+@bush: #5CA2D1;
+@walker: #229A00;
+
+#rep_polls_1 {
+
+  polygon-opacity: 1;
+  polygon-fill: #FF0FFF;
+
+  [_1st=~'.*Trump.*']{
+     polygon-fill: @trump;
+
+     [_2nd=~'.*Carson.*'][_3rd='']::hachures {
+        polygon-pattern-file: @pattern;
+        image-filters:colorize-alpha(@carson);
+     }
+     [_2nd=~'.*Cruz.*'][_3rd='']::hachures3 {
+        polygon-pattern-file: @pattern;
+        image-filters:colorize-alpha(@cruz);
+     }
+  }
+
+  [_1st=~'.*Carson.*']{
+     polygon-fill: @carson;
+     [_2nd=~'.*Trump.*'][_3rd='']::hachures2 {
+        polygon-pattern-file: @pattern;
+        image-filters:colorize-alpha(@trump);
+     }
+  }
+
+  [_1st=~'.*Cruz.*']{
+    polygon-fill: @cruz;
+     [_2nd=~'.*Trump.*'][_3rd='']::hachures4 {
+        polygon-pattern-file: @pattern;
+        image-filters:colorize-alpha(@trump);
+     }
+  }
+
+  [_1st=~'.*Paul.*']{
+    polygon-fill: @paul;
+  }
+
+
+  [_1st=~'.*Huckabee.*']{
+    polygon-fill: @huckabee;
+  }
+
+  [_1st=~'.*Bush.*']{
+    polygon-fill: @bush;
+  }
+
+  [_1st=~'.*Walker.*']{
+    polygon-fill: @walker;
+  }
+
+  [_3rd!=''] {
+    polygon-fill: #AAA;
+  }
+
+  ::lines {
+     line-color: #FFF;
+     line-width: 1;
+     line-opacity: 1;
+  }
+
+  [state='Iowa']::lines2,
+  [state='New Hampshire']::lines2 {
+     line-color: #000000;
+     line-width: 2;
+  }
+
+}
